@@ -1,5 +1,5 @@
 # Sistema de Controle de Acesso
-```markdown
+
 ## Descrição
 
 Uma empresa quer um sistema de login simples para que os funcionários acessem. O sistema precisa checar se o usuário está cadastrado e se a senha está certa.
@@ -33,4 +33,3 @@ A tabela abaixo mostra alguns exemplos de entrada e as saídas esperadas. Certif
 | ana<br>1234        | Usuário ou senha incorretos |
 
 **Atenção**: É muito importante que as entradas e saídas sejam idênticas às descritas no desafio de código.
-```
